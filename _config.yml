@@ -89,10 +89,10 @@ feature_title_color                       : "#ffffff"
 feature_text_color                        : "#a1a1a1"
 
 feature_icons_foreground_color            : "#FFED00"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_background_color            : "#4a4a4a"
 
 social_icons_foreground_color             : "#FFED00"
-social_icons_background_color             : "#e6e6e6"
+social_icons_background_color             : "#4a4a4a"
 
 footer_text_color                         : "#666666"
 
